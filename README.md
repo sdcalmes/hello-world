@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repo
+Sam Calmes here...learning Git. Chillsesh, bro.
